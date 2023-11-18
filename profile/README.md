@@ -1,48 +1,48 @@
 # Night Login
-## A Communnity by the Developers, for the developers.
+### A Communnity by the Developers, for the developers.
 
-### Communities
-#### Night Login Android Developer Community
+## Communities
+### Night Login Android Developer Community
 - Head: Difta Fitrahul Qihaj
 - Vice: _Vacant_
 
-#### Night Login Data Science Community
+### Night Login Data Science Community
 - Head: Agustinus Angelo Christian Fernando
 - Vice: _Vacant_
 
-#### Night Login Cyber Security Community
+### Night Login Cyber Security Community
 - Head: Moh. Rizky Arif
 - Vice: _Vacant_
 
-#### Night Login Web Developer Community
+### Night Login Web Developer Community
 - Head: Aufa Nasywa Rahman
 - Vice: _Vacant_
 
-#### Night Login Game Developer Community
+### Night Login Game Developer Community
 - Head: Raditya Christoaji Ballandean Prabowo
 - Vice: _Vacant_
 
-#### Night Login UI/UX Community
+### Night Login UI/UX Community
 - Head: _Vacant_
 - Vice: _Vacant_
 
-### Management Team
+## Management Team
 
-#### Marketing & Branding Division
+### Marketing & Branding Division
 - Head: Salwa Maharani
 - Vice: _Vacant_
-##### Graphics Design Sub-Division
+#### Graphics Design Sub-Division
 - Head: Petrus Aria Chevalier Rambing
 - Vice: _Vacant_
-##### Video & Motion Graphics Sub-Division
+#### Video & Motion Graphics Sub-Division
 - Head: _Vacant_
 - Vice: _Vacant_
 
-#### Program Management Division
+### Program Management Division
 - Head: Yitzhak E. T. Manalu
 - Vice: _Vacant_
 
-#### Administration Division
+### Administration Division
 - Head of Secretary: Laily Medha Nur Ihsanti
 - Vice of Secretary: _Vacant_
 - Head of Finance: _Vacant_
