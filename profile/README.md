@@ -37,6 +37,9 @@
 #### Video & Motion Graphics Sub-Division 📽️
 - Head: _Vacant_
 - Vice: _Vacant_
+#### Content Creation & Social Media Marketing Sub-Division
+- Head: _Vacant_
+- Vice: _Vacant_
 
 ### Program Management Division 👨‍💻
 - Head: Yitzhak E. T. Manalu
