@@ -1,5 +1,5 @@
 # Night Login
-### A Communnity by the Developers, for the developers.
+### A Community by the Developers, for the developers.
 
 ## Communities 🦢
 ### Night Login Android Developer Community 📱
